@@ -2563,7 +2563,7 @@ let itsmenu = `
 ┃
 ┗❐
 
-Thezetsuboxygen © Copyright`
+𝐂𝐥𝐚𝐬𝐬𝐢𝐜 © Copyright`
 
 let msg = {
 viewOnceMessage: {
@@ -2639,8 +2639,8 @@ let totalCases = caseCount,
 listCases = caseNames.join('\n✢ ');
 
 joreply(`
-┏❐  ⌜ ZxV - Bot ⌟  ❐
-┃✢ Creator : thezetsuboxygen
+┏❐  ⌜𝗗𝗘𝗩𝗜𝗟 𝗦𝗣𝗜𝗗𝗘𝗥⌟  ❐
+┃✢ Creator : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Maintenance 
@@ -2704,11 +2704,11 @@ Atheis/Gapunya Agama/Orang Gila: ${command}`)
 break
 */
 
-/*case 'bug': case 'apa': case 'kenapa': case 'oke': case 'apa': case 'virtex': case 'virteks': case 'virtext': case 'pirtek': case 'pirteks': case 'pirtex': case 'anjay':{
-ryozingod.sendMessage(m.chat, { text: `kenapa?`}, { quoted: ryobug })
+case 'bug': case 'apa': case 'kenapa': case 'oke': case 'apa': case 'virtex': case 'virteks': case 'virtext': case 'pirtek': case 'pirteks': case 'pirtex': case 'anjay':{
+ryozingod.sendMessage(m.chat, { text: `𝕾𝖕𝖎𝖉𝖊𝖗?`}, { quoted: ryobug })
 }
 break
-*/
+
 case 'shutdown': {
 if (!isDeveloper) return joreply(mess.owner)
 joreply(`Otsukaresama deshita🖐`)
