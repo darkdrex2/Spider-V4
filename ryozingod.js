@@ -1927,7 +1927,7 @@ let njing = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
 ┏❐  ⌜ 𝘿𝙀𝙑𝙄𝙇 𝙎𝙋𝙄𝘿𝙀𝙍⌟  ❐
-┃✢ Creator : thezetsuboxygen
+┃✢ Creator : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
